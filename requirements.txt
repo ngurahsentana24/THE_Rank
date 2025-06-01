@@ -3,3 +3,6 @@ pymongo
 minisom
 shap
 plotly
+seaborn
+pandas
+
