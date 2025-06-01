@@ -5,4 +5,4 @@ shap
 plotly
 seaborn
 pandas
-
+ipywidgets
